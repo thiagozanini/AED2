@@ -16,3 +16,8 @@ def selectionSort(itemsList):
 #arq = ('arquivo.csv', 'r')
 #arq.readlines()
 #arq.close()
+a = [9, -3, 5, 2, 6, 8, -6, 1, 3]
+ 
+selectionSort(a)
+ 
+print(a)

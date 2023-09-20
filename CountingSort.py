@@ -1,5 +1,6 @@
+
 def countingSort(inputArray):
-    maxElement= max(inputArray)
+    maxElement = max(inputArray)
 
     countArrayLength = maxElement+1
     countArray = [0] * countArrayLength
